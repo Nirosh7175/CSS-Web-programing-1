@@ -1,1 +1,1 @@
-https://github.com/Nirosh7175/CSS-Web-programing-1.git
+https://nirosh7175.github.io/CSS-Web-programing-1/
